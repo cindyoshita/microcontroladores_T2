@@ -7,4 +7,10 @@
 - **Raphael Gueleri Kalaes         RA:18.02011-9**
 
 # Foto Montagem
-<img src="![PHOTO-2022-10-13-16-38-03](https://user-images.githubusercontent.com/79462846/195695695-e9820c59-5031-470d-b3bc-c534cacf752d.jpg)"/>
+<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-03.jpg"/>
+<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-04%20(1).jpg"/>
+<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-04.jpg"/>
+<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-59.jpg"/>
+<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-39-00.jpg"/>
+<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-39-01%20(1).jpg"/>
+<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-39-01.jpg"/>
