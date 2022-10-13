@@ -7,10 +7,11 @@
 - **Raphael Gueleri Kalaes         RA:18.02011-9**
 
 # Foto Montagem
-<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-03.jpg"/>
-<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-04%20(1).jpg"/>
-<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-04.jpg"/>
-<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-38-59.jpg"/>
-<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-39-00.jpg"/>
-<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-39-01%20(1).jpg"/>
-<img src="https://github.com/cindyoshita/microcontroladores_T2/blob/main/PHOTO-2022-10-13-16-39-01.jpg"/>
+![PHOTO-2022-10-13-16-38-03](https://user-images.githubusercontent.com/79462846/195697313-51d46c1c-6b0e-4c77-8ffb-456406aad053.jpg)
+![PHOTO-2022-10-13-16-38-04 (1)](https://user-images.githubusercontent.com/79462846/195697317-ffd45400-8f1d-4f7d-b6ec-f1c67f44a7fa.jpg)
+![PHOTO-2022-10-13-16-38-04](https://user-images.githubusercontent.com/79462846/195697318-246358f3-6ceb-47e9-b00b-95a4703c1c4e.jpg)
+![PHOTO-2022-10-13-16-38-59](https://user-images.githubusercontent.com/79462846/195697322-156b5c1c-e305-4623-9dbe-ac978be6b8e3.jpg)
+![PHOTO-2022-10-13-16-39-00](https://user-images.githubusercontent.com/79462846/195697325-3789ce4f-f04b-4ae9-a63f-ca184c12f184.jpg)
+![PHOTO-2022-10-13-16-39-01 (1)](https://user-images.githubusercontent.com/79462846/195697330-5b8e2454-e49d-44f2-83b1-e33e27987d78.jpg)
+![PHOTO-2022-10-13-16-39-01](https://user-images.githubusercontent.com/79462846/195697335-5e7d6db5-02fe-467e-9e7e-7e8ae27c5384.jpg)
+
