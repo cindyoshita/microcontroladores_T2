@@ -22,7 +22,16 @@ https://user-images.githubusercontent.com/79462846/195697879-dfa82a6f-b425-4b16-
 
 # microcontroladores_T3 EEN-251_Projetosemestral2_2022
 
-# Foto Montagem
+# Foto
+![WhatsApp Image 2022-10-27 at 17 41 34 (1)](https://user-images.githubusercontent.com/79462846/198394456-9ca7c280-5085-4dc2-8202-bc7af9b6d960.jpeg)
+![WhatsApp Image 2022-10-27 at 17 44 03](https://user-images.githubusercontent.com/79462846/198394522-dbaa8660-0e63-44e6-8604-ebf2177f786a.jpeg)
+![WhatsApp Image 2022-10-27 at 17 41 33](https://user-images.githubusercontent.com/79462846/198394484-8d04962d-71a2-4075-a3c0-ef76d24473d4.jpeg)
+![WhatsApp Image 2022-10-27 at 17 41 32](https://user-images.githubusercontent.com/79462846/198394489-bb58df5a-58b8-49cf-9e61-bb3bd4a79653.jpeg)
+![WhatsApp Image 2022-10-27 at 17 41 33 (1)](https://user-images.githubusercontent.com/79462846/198394490-da780723-004e-492c-ae6d-cad24d2a2e29.jpeg)
+![WhatsApp Image 2022-10-27 at 17 41 33 (2)](https://user-images.githubusercontent.com/79462846/198394494-12ff53ec-462b-4556-ae84-032a823b02d0.jpeg)
+![WhatsApp Image 2022-10-27 at 17 41 34](https://user-images.githubusercontent.com/79462846/198394517-2e989ca5-3c08-4820-b910-7a0f62b8bd6a.jpeg)
+![WhatsApp Image 2022-10-27 at 17 44 03 (1)](https://user-images.githubusercontent.com/79462846/198394519-d8665bdf-2041-4d04-848f-1523e4867fba.jpeg)
+
 
 
 # Vídeo
