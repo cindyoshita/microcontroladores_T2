@@ -11,6 +11,9 @@ from PIL import ImageDraw
 from PIL import ImageFont
 
 import subprocess
+import json
+
+
 
 sense_pin = 14
 LED_pin = 16
@@ -64,18 +67,21 @@ def EventsPerTime(channel):
     this_time = time.time()
     counter = counter+1
     draw.rectangle((0,0,width,height), outline=0, fill=0)
-    
+   
     speed = int(((counter/2)*calc)/wheel)
     draw.text((x,mid-5),"Pontuacao: " + str(speed),  font=font, fill=255)
     disp.image(image)
     disp.display()
     disp.clear()
-    print("Pontuação: " + str(speed))
+    saida = ("{"+'"pontuacao":'+"{"+'"value":{}'.format(speed) + "}},")
+    saida2 = json.dumps(saida)
+    print(saida)
+    #print("Pontuação: " + str(speed))
     last_time = this_time
-    
-    
-    
-    
+   
+   
+   
+   
 
     #GPIO.output(LED_pin, False)
     return()
@@ -97,6 +103,7 @@ try:
         disp.image(image)
         disp.display()
         disp.clear()
+       
 except:
     time.sleep(2)
     #GPIO.output(LED_pin, False)
